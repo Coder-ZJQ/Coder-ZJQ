@@ -1,13 +1,18 @@
-![](https://github-readme-stats.vercel.app/api?username=coder-zjq&show_icons=true&theme=radical)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=coder-zjq&show_icons=true&include_all_commits=true&line_height=40&count_private=true&theme=radical&hide_border=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=coder-zjq&theme=radical&hide_border=true">
+</p>
 
-<details>
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coder-zjq)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<summary> Most Used Languages </summary>
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-zjq&theme=radical&hide_title=true)
-
-</details>
-
+<!-- <p align = "center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-zjq&repo=JQCollectionViewAlignLayout&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moya&repo=moya&theme=radical&hide_border=true&line_height=40" />
+  </a>
+</p> -->
 <!--
 **Coder-ZJQ/Coder-ZJQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
