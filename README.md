@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning dart&flutter and full-stack app development.
 - 👯 I’m looking to collaborate on iOS/Web project.
 - 💬 Ask me about anything, I’m happy to help.
-- 📫 You reach me by [email](mailto:zjq_joker@163.com).
+- 📫 You can reach me by [email](mailto:zjq_joker@163.com).
 
 ## My Tech Stack
 
