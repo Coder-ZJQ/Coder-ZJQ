@@ -1,4 +1,4 @@
-## Hey there! This is Jinqiao Zhao.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 [![](https://img.shields.io/badge/-@coder--zjq-%23181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/coder-zjq)
 [![](https://img.shields.io/badge/-@J0ker2-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=ffffff)](https://leetcode.com/J0ker2/)
@@ -6,7 +6,7 @@
 [![](https://img.shields.io/website?color=0ab9e6&style=for-the-badge&up_message=jq♡tech&url=https%3A%2F%2Fjqz3.tech)](https://jqz3.tech)
 [![](https://img.shields.io/badge/-zjq__joker@163.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:zjq_joker@163.com)
 
-
+- 😁 My name is [Jinqiao Zhao](https://jqz3.tech).
 - 👨🏻‍💻 I’m a passionate self-taught iOS&Web developer and a freelance software engineer from China.
 - 🌱 I’m currently learning dart&flutter and full-stack app development.
 - 👯 I’m looking to collaborate on iOS/Web project.
