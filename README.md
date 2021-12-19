@@ -42,7 +42,7 @@
 
 
 
-## My Github Stats
+## My GitHub Stats
 
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=coder-zjq&show_icons=true&include_all_commits=true&line_height=40&count_private=true&theme=radical&hide_border=true">
