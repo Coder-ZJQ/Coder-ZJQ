@@ -20,9 +20,9 @@
 ![RxSwift](https://img.shields.io/badge/-RxSwift-%23B7178C?style=for-the-badge&logo=reactivex&logoColor=ffffff)
 ![Reverse](https://img.shields.io/badge/-Reverse-%23000?style=for-the-badge&logo=apple&logoColor=ffffff)
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=vuedotjs)
 
 ![Dart](https://img.shields.io/badge/-Dart-%23235997?style=for-the-badge&logo=dart&logoColor=ffffff)
@@ -36,10 +36,10 @@
 
 ![Xcode](https://img.shields.io/badge/-Xcode-%232a64d9?style=for-the-badge&logo=xcode&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![Cocoapods](https://img.shields.io/badge/-Cocoapods-%23EE3322?style=for-the-badge&logo=cocoapods&logoColor=ffffff)
 ![Yarn](https://img.shields.io/badge/-Yarn-%232C8EBB?style=for-the-badge&logo=yarn&logoColor=ffffff)
 ![npm](https://img.shields.io/badge/-npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=ffffff)
-
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 
 
 ## My GitHub Stats
