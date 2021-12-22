@@ -1,7 +1,7 @@
 ## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-- 😁 My name is [Jinqiao Zhao](https://jqz3.tech).
-- 👨🏻‍💻 I’m a passionate self-taught iOS&Web developer and a freelance software engineer from China.
+- 👨 My name is [Jinqiao Zhao](https://jqz3.tech).
+- 💻 I’m a passionate self-taught iOS&Web developer and a freelance software engineer from China.
 - 🌱 I’m currently learning dart&flutter and full-stack app development.
 - 👯 I’m looking to collaborate on iOS/Web project.
 - 💬 Ask me about anything, I’m happy to help.
