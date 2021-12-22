@@ -43,7 +43,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=coder-zjq&theme=radical&hide_border=true">
 </p>
 
-## Others
+## The Others
 
 [![](https://img.shields.io/website?color=0ab9e6&style=for-the-badge&up_message=jq♡tech&url=https%3A%2F%2Fjqz3.tech)](https://jqz3.tech)
 [![](https://img.shields.io/badge/-@jokerq-%23F58025?style=for-the-badge&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/7356960/jokerq)
