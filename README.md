@@ -2,8 +2,8 @@
 
 - 👨 My name is [Jinqiao Zhao](https://jqz3.tech).
 - 💻 I’m a passionate self-taught iOS&Web developer and a freelance software engineer from China.
+- 🌱 I’m currently learning multi-platform application development such as dart&flutter.
 - 🤖 In addition to coding, I also use CI/CD tech to make my work more efficient.
-- 🌱 I’m currently learning dart&flutter and full-stack app development.
 - 👯 I’m looking to collaborate on iOS/Web projects.
 - 💬 Ask me about anything, I’m happy to help.
 - 📫 You can reach me by [email](mailto:zjq_joker@163.com).
