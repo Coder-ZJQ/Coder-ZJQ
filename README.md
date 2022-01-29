@@ -3,20 +3,20 @@
 - 👨 My name is [Jinqiao Zhao](https://jqz3.tech).
 - 💻 I’m a passionate self-taught iOS&Web developer and a freelance software engineer from China.
 - 🌱 I’m currently learning multi-platform application development such as dart&flutter.
-- 🤖 In addition to coding, I also use CI/CD tech to make my work more efficient.
-- 👯 I’m looking to collaborate on iOS/Web projects.
+- 🤖 In addition to coding, I also use CI/CD tech to increase productivity.
+- 👯 I’m looking to collaborate on iOS/Web project.
 - 💬 Ask me about anything, I’m happy to help.
 - 📫 You can reach me by [email](mailto:zjq_joker@163.com).
 
 ## My Tech Stack
 
 ![iOS](https://img.shields.io/badge/-iOS-%23000?style=for-the-badge&logo=apple&logoColor=ffffff)
-![Objective-C](https://img.shields.io/badge/-Objective--C-%23dddddd?style=for-the-badge)
+![](https://img.shields.io/badge/OC-Objective--C-%23dddddd?style=for-the-badge)
 ![Swift](https://img.shields.io/badge/-Swift-%23E44D27?style=for-the-badge&logo=swift&logoColor=ffffff)
 ![RxSwift](https://img.shields.io/badge/-RxSwift-%23B7178C?style=for-the-badge&logo=reactivex&logoColor=ffffff)
 ![Reverse](https://img.shields.io/badge/-Reverse-%23000?style=for-the-badge&logo=ios&logoColor=ffffff)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=vuedotjs)
