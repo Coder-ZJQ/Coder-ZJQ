@@ -42,10 +42,17 @@
 
 ## Stats
 
+### GitHub
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=coder-zjq&show_icons=true&include_all_commits=true&line_height=40&count_private=true&theme=radical&hide_border=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=coder-zjq&theme=radical&hide_border=true">
 </p>
+
+### LeetCode
+
+<a href="https://leetcode.com/J0ker2/">
+  <img src="https://stats.justsong.cn/api/leetcode/?username=J0ker2&theme=dark">
+</a>
 
 ## The Others
 
