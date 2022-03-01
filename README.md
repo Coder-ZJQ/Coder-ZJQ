@@ -53,11 +53,10 @@
   <img src="https://stats.justsong.cn/api/leetcode/?username=J0ker2&theme=dark">
 </a>
 
-## The Others
+<!-- ## The Others
 
 [![](https://img.shields.io/website?color=0ab9e6&style=for-the-badge&up_message=jq♡tech&url=https%3A%2F%2Fjqz3.tech)](https://jqz3.tech)
 [![](https://img.shields.io/badge/-@jokerq-%23F58025?style=for-the-badge&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/7356960/jokerq)
-[![](https://img.shields.io/badge/-@J0ker2-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=ffffff)](https://leetcode.com/J0ker2/)
 [![](https://img.shields.io/badge/-zjq__joker@163.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:zjq_joker@163.com)
 [![](https://img.shields.io/badge/-@coder--zjq-%23181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/coder-zjq)
-
+[![](https://img.shields.io/badge/-@J0ker2-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=ffffff)](https://leetcode.com/J0ker2/) -->
