@@ -46,8 +46,8 @@
 ## GitHub Stats
 
 <p align = "left">
-  <img src = "https://github-readme-stats-coder-zjq.vercel.app/api?username=coder-zjq&show_icons=true&include_all_commits=true&line_height=40&count_private=true&theme=radical&hide_border=true">
-  <img src = "https://github-readme-stats-coder-zjq.vercel.app/api/top-langs/?username=coder-zjq&theme=radical&hide_border=true">
+  <img src = "https://github-readme-stats.jqz3.tech/api?username=coder-zjq&show_icons=true&include_all_commits=true&line_height=40&count_private=true&theme=radical&hide_border=true">
+  <img src = "https://github-readme-stats.jqz3.tech/api/top-langs/?username=coder-zjq&theme=radical&hide_border=true">
 </p>
 
 ## LeetCode Stats
