@@ -8,9 +8,6 @@
 - 💬 Ask me about anything, I’m happy to help.
 - 📫 You can reach me by [email](mailto:zjq_joker@163.com).
 
-
-<img src="https://komarev.com/ghpvc/?username=coder-zjq&style=for-the-badge&label=PROFILE%20VIEWS" alt="profile views badge"/>
-
 ## My Tech Stack
 
 ![iOS](https://img.shields.io/badge/-iOS-%23000?style=for-the-badge&logo=apple&logoColor=ffffff)
@@ -56,6 +53,11 @@
   <img src="https://stats.justsong.cn/api/leetcode/?username=J0ker2&theme=dark">
 </a>
 
+##
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=coder-zjq&style=for-the-badge&label=PROFILE%20VIEWS" alt="profile views badge"/>
+</p>
 <!-- ## The Others
 
 [![](https://img.shields.io/website?color=0ab9e6&style=for-the-badge&up_message=jq♡tech&url=https%3A%2F%2Fjqz3.tech)](https://jqz3.tech)
