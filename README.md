@@ -1,4 +1,5 @@
-## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
 
 - 👨 My name is [Jinqiao Zhao](https://jqz3.tech).
 - 💻 I’m a passionate self-taught iOS&Web developer and a freelance software engineer from China.
