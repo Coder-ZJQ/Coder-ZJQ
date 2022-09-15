@@ -51,7 +51,7 @@
 ## LeetCode Stats
 
 <a href="https://leetcode.com/jqz3/">
-  <img src="https://stats.justsong.cn/api/leetcode/?username=jqz3&theme=dark">
+  <img src="https://leetcard.jacoblin.cool/jqz3?ext=heatmap&theme=nord">
 </a>
 
 ##
