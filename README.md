@@ -56,6 +56,8 @@
 
 ##
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Stay+hungry%2C+Stay+foolish.)](https://jqz3.tech)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=coder-zjq&style=for-the-badge&label=PROFILE%20VIEWS" alt="profile views badge"/>
 </p>
