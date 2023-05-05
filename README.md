@@ -60,7 +60,7 @@
   <img src="https://leetcard.jacoblin.cool/jqz3?ext=heatmap&theme=nord">
 </a>
 
-## Workouts
+## Workout Stats
 
 [![](https://github.com/Coder-ZJQ/workouts_page/raw/master/assets/github_2023.svg)](https://workouts.jqz3.tech/)
 
