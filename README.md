@@ -62,7 +62,7 @@
 
 ## Workout Stats
 
-[![](https://github.com/Coder-ZJQ/workouts_page/raw/master/assets/github_2023.svg)](https://workouts.jqz3.tech/)
+[![](https://github.com/Coder-ZJQ/workouts_page/raw/master/assets/github_2024.svg)](https://workouts.jqz3.tech/)
 [![](https://github.com/Coder-ZJQ/workouts_page/raw/master/assets/grid.svg)](https://workouts.jqz3.tech/)
 
 ##
