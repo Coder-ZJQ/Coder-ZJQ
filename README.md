@@ -44,8 +44,8 @@
 ## GitHub Stats
 
 <p align = "left">
-  <img src = "https://github-readme-stats.jqz3.tech/api?username=coder-zjq&show_icons=true&include_all_commits=true&line_height=40&count_private=true&theme=radical&hide_border=true&foo=bar">
-  <img src = "https://github-readme-stats.jqz3.tech/api/top-langs/?username=coder-zjq&theme=radical&hide_border=true">
+  <img src = "https://github-stats-extended.vercel.app/api?username=coder-zjq&show_icons=true&include_all_commits=true&line_height=40&count_private=true&theme=radical&hide_border=true&foo=bar">
+  <img src = "https://github-stats-extended.vercel.app/api/top-langs/?username=coder-zjq&theme=radical&hide_border=true">
 </p>
 
 <picture>
@@ -62,7 +62,7 @@
 
 ## Workout Stats
 
-[![](https://github.com/Coder-ZJQ/workouts_page/raw/master/assets/github.svg)](https://workouts.jqz3.tech/)
+[![](https://github.com/Coder-ZJQ/workouts_page/raw/master/assets/github.svg)](https://workouts-page-jokerzs-projects.vercel.app/)
 <!-- [![](https://github.com/Coder-ZJQ/workouts_page/raw/master/assets/grid.svg)](https://workouts.jqz3.tech/) -->
 
 ##
